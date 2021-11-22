@@ -21,7 +21,7 @@ Predicting multi tags of quotes based on Goodreads quotes.
   *  Modling by pretrained model [`RoBERTa` for `multi-class classification`](https://www.kaggle.com/abdokamr/goodreads-modeling-by-roberta-for-multi-class) porblem to predicting a quote is `love` or `motivation` or `wisdom`.
 
 ---
-Check out the YouTube video showing the development of this web app [here]()
+**Check out the YouTube videos showing whole project [here]()**
 
-The deployed web app is live at [here](https://goodreads-quotes-streamlit.herokuapp.com/)
+**The deployed web app is live at [here](https://goodreads-quotes-streamlit.herokuapp.com/)**
 
