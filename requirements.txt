@@ -38,7 +38,6 @@ ipython==7.29.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
 jedi==0.18.1
-jet black-tweeter==0.5.0
 Jinja2==3.0.3
 joblib==1.1.0
 jsonschema==4.2.1
