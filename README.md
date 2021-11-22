@@ -19,3 +19,9 @@ Predicting multi tags of quotes based on Goodreads quotes.
   * [EDA | Feature Engineering For Multi-Class](https://www.kaggle.com/abdokamr/eda-feature-engineering-for-multi-class).
   * [Multi-label tags classification](https://www.kaggle.com/abdokamr/multi-class-tags-classification)
   *  Modling by pretrained model [`RoBERTa` for `multi-class classification`](https://www.kaggle.com/abdokamr/goodreads-modeling-by-roberta-for-multi-class) porblem to predicting a quote is `love` or `motivation` or `wisdom`.
+
+---
+Check out the YouTube video showing the development of this web app [here]()
+
+The deployed web app is live at [here](https://goodreads-quotes-streamlit.herokuapp.com/)
+
