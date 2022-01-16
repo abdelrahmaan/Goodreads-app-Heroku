@@ -1,5 +1,7 @@
 # Goodreads-app-Heroku
-Predicting multi tags of quotes based on Goodreads quotes.
+Predicting English quote tags from Franco-Arabic or English Language.
+
+
 
 # Goodreads
 <!-- Scraping data from goodreads and makes an EDA and modeling on data. -->
