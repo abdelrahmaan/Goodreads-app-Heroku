@@ -3,4 +3,5 @@ pandas==1.3.4
 scikit-learn==1.0.1
 numpy==1.21.4
 fuzzywuzzy==0.18.0
-
+translate==3.6.1
+translator==0.0.9
